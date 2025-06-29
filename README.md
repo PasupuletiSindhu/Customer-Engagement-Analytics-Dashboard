@@ -1,10 +1,8 @@
 # AI-Enhanced Engagement Dashboard
 
-> Uncover insights with intelligent anomaly detection and real-time metrics
+> Discover insights with intelligent anomaly detection and real-time metrics
 
 A unified analytics solution to track customer behavior and Reddit sentiment, equipped with real-time anomaly alerts and detailed visualizations.
-
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Customer+Engagement+Dashboard)
 
 ## Highlights
 
